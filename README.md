@@ -6,6 +6,8 @@ it is an animation of sinking chair.
 - in order to make it running you would need working kTurtle application (a part of KDE project).
 - just open it and the interpreter would run it for you.
 
+<img alt="sample output from paused interpreter" title="test 0" src="https://user-images.githubusercontent.com/98284211/166970912-55fdfc46-b592-4ff7-a118-7d43db8320b8.png" width="127" />
+
 thanks to Wikipedia for an inspiration[^1] and acting character!!!
 
 >```
@@ -143,5 +145,20 @@ thanks to Wikipedia for an inspiration[^1] and acting character!!!
 >container
 >#
 >```
+
+---
+### screenshots
+
+![Screenshot_2022-05-05_18-59-37 kTurtle IDE](https://user-images.githubusercontent.com/98284211/166975614-8c2a3992-1bbb-4805-932c-a0a2c9b52686.png "frame 1 -- the script running in kTurtle IDE")
+![Screenshot_2022-05-05_18-59-47 kTurtle IDE](https://user-images.githubusercontent.com/98284211/166975660-5f4f92ad-0a43-4160-8efd-f2f0ced424e6.png "frame 2 -- the script running in kTurtle IDE")
+![Screenshot_2022-05-05_18-59-54 kTurtle IDE](https://user-images.githubusercontent.com/98284211/166975683-2f6efe11-209e-4b09-8a48-fe8bf0f239e2.png "frame 3 -- the script running in kTurtle IDE")
+![Screenshot_2022-05-05_19-00-06 kTurtle IDE](https://user-images.githubusercontent.com/98284211/166975716-4946a828-5d28-47c4-a1fa-b50980c0062f.png "frame 4 -- the script running in kTurtle IDE")
+
+
+---
+### sample output from paused interpreter
+
+![sample output from paused interpreter](https://user-images.githubusercontent.com/98284211/166970912-55fdfc46-b592-4ff7-a118-7d43db8320b8.png "test 0")
+
 
 [^1]: cannot provide you with the link because i've lost my memory (...partially)
