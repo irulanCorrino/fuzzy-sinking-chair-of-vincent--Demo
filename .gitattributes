@@ -1,2 +1,2 @@
 # to ignore web-publishing view of source code in kturtle
-*.html
+#*.html
