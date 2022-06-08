@@ -1,5 +1,5 @@
 # fuzzy-sinking-chair-of-vincent--Demo
-my first repositotory; my first demo
+my first repository; my first demo
 ---
 this one is a result of my very first steps in learning kTurtle scripting language.  
 it is an animation of sinking chair.
